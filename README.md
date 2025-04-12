@@ -24,7 +24,7 @@ pip install customtkinter
 Clone repo and run
 
 ```sh
-git clone https://github.com/09jayy/Sudoku-Solver-with-GUI
+git clone https://github.com/09jayy/Sudoku-Solver-Application
 cd Sudoku-Solver-Application
 python main.py
 ```
