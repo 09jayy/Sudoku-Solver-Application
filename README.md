@@ -1,4 +1,4 @@
-# Sudoku-Solver-with-GUI
+# Sudoku-Solver-Application
 
 ## Contents
 
@@ -25,7 +25,7 @@ Clone repo and run
 
 ```sh
 git clone https://github.com/09jayy/Sudoku-Solver-with-GUI
-cd Sudoku-Solver-with-GUI
+cd Sudoku-Solver-Application
 python main.py
 ```
 
